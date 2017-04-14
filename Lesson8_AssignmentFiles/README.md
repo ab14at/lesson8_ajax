@@ -4,17 +4,16 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+4/14/17
 
 ### Student Name:  
-(First and Last Name)
+Alyssa Blanco
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To edit the code and include the rest of the movie details
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ab14at.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
